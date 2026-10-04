@@ -8,11 +8,14 @@
   <a href="https://sumit966-github-io.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/er-sumit-raj">
+  <a href="https://www.linkedin.com/in/er-sumit-raj-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:info.sr0909@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sumit966?tab=followers">
+    <img src="https://img.shields.io/github/followers/sumit966?style=for-the-badge&color=3b82f6&labelColor=1e293b&logo=github" />
   </a>
 </p>
 
@@ -83,43 +86,43 @@ I build **intelligent systems** that solve real-world problems — from **health
 
 ## 🚀 Featured Projects
 
-### 🧠 RAG-Based Clinical Question Answering System
+### 🧠 [RAG-Based Clinical Question Answering System](https://github.com/sumit966/rag-clinical-qa)
 `Python` `LangChain` `ChromaDB` `FastAPI` `Docker` `GitHub Actions`
 
 - Built a **RAG pipeline** for clinical document retrieval, reaching **92% answer relevance** on a 100-question benchmark
 - Added **hybrid search** (BM25 + dense embeddings) with Reciprocal Rank Fusion, improving retrieval accuracy by **18%**
 - Deployed with FastAPI, Docker, and GitHub Actions CI/CD at **under 500 ms inference latency**
 
-### 🔍 LLM-Powered Security Log Analyzer
+### 🔍 [LLM-Powered Security Log Analyzer](https://github.com/sumit966/llm-security-analyzer)
 `Python` `LangGraph` `OpenAI API`
 
 - Built a **LangGraph agent workflow** with the OpenAI API to analyze **50K+ security logs** and generate natural-language threat summaries
 - Added a **self-reflection evaluation loop** that kept hallucination **under 3%** on 200 curated test cases
 
-### ⚙️ CI/CD Pipeline with Docker & GCP
+### ⚙️ [CI/CD Pipeline with Docker & GCP](https://github.com/sumit966/cicd-pipeline-gcp)
 `GitHub Actions` `Docker` `GCP Compute Engine`
 
 - Containerized a Python web application with Docker and deployed it on GCP Compute Engine through a GitHub Actions pipeline, reducing manual deployment time by **70%**
 
-### 🏗️ Terraform Infrastructure Automation
+### 🏗️ [Terraform Infrastructure Automation](https://github.com/sumit966)
 `Terraform` `GCP`
 
 - Provisioned GCP infrastructure (VPC, Compute Engine, Cloud SQL) with Terraform, using remote state management and VM startup scripts
 
-### 🔐 Military Vehicle Detection & Face Authentication
+### 🔐 [Military Vehicle Detection & Face Authentication](https://github.com/sumit966/military-vehicle-detection)
 `Python` `YOLOv8` `OpenCV` `Haar Cascade` `Docker` `GCP Cloud Run`
 
 - Built a real-time surveillance system with Haar Cascade face authentication at ~**95% detection accuracy**
 - Detected and tracked military vehicles with **YOLOv8** + OpenCV, sending automated email alerts
 - Containerized with Docker and deployed on **GCP Cloud Run** with Cloud Logging for monitoring
 
-### 🧠 Brain Tumor Detection from MRI Scans
+### 🧠 [Brain Tumor Detection from MRI Scans](https://github.com/sumit966/brain-tumor-detection)
 `Python` `PyTorch` `Vision Transformers` `ONNX` `Grad-CAM`
 
 - Fine-tuned a **Vision Transformer** on **3,000+ MRI scans**: **94.2% accuracy, 0.91 F1-score**
 - Used **Grad-CAM** to visualize model attention and **ONNX quantization** to cut model size by **60%**
 
-### 🤖 Mobile Botnet Detection System
+### 🤖 [Mobile Botnet Detection System](https://github.com/sumit966/Mobile-Botnet-Detection)
 `Python` `TensorFlow` `Scikit-learn` `SQL`
 
 - Analyzed Android network traffic patterns to identify malicious bot communications with C&C servers
@@ -156,10 +159,20 @@ I build **intelligent systems** that solve real-world problems — from **health
 
 ## 📫 Connect With Me
 
-- 🔗 **LinkedIn**: [linkedin.com/in/er-sumit-raj](https://www.linkedin.com/in/er-sumit-raj/)
-- 📧 **Email**: info.sr0909@gmail.com
-- 🌐 **Portfolio**: [sumit966-github-io.vercel.app](https://sumit966-github-io.vercel.app)
-- 🐙 **GitHub**: [github.com/sumit966](https://github.com/sumit966)
+<p align="center">
+  <a href="https://www.linkedin.com/in/er-sumit-raj-/">
+    <img src="https://img.shields.io/badge/LinkedIn-er--sumit--raj--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:info.sr0909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-info.sr0909@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sumit966-github-io.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-sumit966--github--io.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/sumit966">
+    <img src="https://img.shields.io/badge/GitHub-sumit966-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
