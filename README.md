@@ -338,7 +338,7 @@ Infrastructure as Code for **VPC, Compute Engine, Cloud SQL** with remote state 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit966&bg_color=0d1117&color=58a6ff&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit966&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <p align="center">
