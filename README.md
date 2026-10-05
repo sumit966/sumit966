@@ -342,6 +342,10 @@ Infrastructure as Code for **VPC, Compute Engine, Cloud SQL** with remote state 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit966&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Contribution%20Stats" alt="Contribution Stats" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/sumit966/sumit966/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
