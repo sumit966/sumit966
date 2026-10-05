@@ -338,15 +338,15 @@ Infrastructure as Code for **VPC, Compute Engine, Cloud SQL** with remote state 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit966&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/sumit966/sumit966/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit966&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Contribution%20Stats" alt="Contribution Stats" />
+  <img src="https://raw.githubusercontent.com/sumit966/sumit966/output/github-snake-dark.svg?v=2" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumit966/sumit966/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit966&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Contribution%20Stats" alt="Contribution Stats" />
 </p>
 
 ---
