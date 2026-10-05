@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sumit Raj</h1>
 
-<h3 align="center">AI/ML · Generative AI · Data · Full Stack · Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Engineer;Data+Analyst;Full+Stack+Developer;Software+Engineer;M.Tech+%40+VNIT+Nagpur" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Hi%20👋,%20I'm%20Sumit%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20·%20GenAI%20·%20Full%20Stack%20·%20Software%20Engineer&descAlignY=58&descSize=18" />
 </p>
-
 <p align="center">
   <a href="https://sumit966.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/er-sumit-raj-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
