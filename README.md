@@ -25,21 +25,62 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **multi-role engineer** with strong foundations across AI/ML, Generative AI, Data Analytics, Full-Stack Development, and Software Engineering. Currently pursuing **M.Tech in Applied AI & Machine Learning at VNIT Nagpur** (CGPA 6.53), after completing **B.E. Computer Science at Dr. D.Y. Patil Institute, Pune** (CGPA 7.89).
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding"/>
 
-- 🎓 **M.Tech Applied AI & ML** @ VNIT Nagpur (2024 – May 2026)
-- 💼 **Ex-Software Engineer Intern** @ Salesforce (Feb – May 2022)
-- 🤖 Building **LLM-powered systems** (RAG, LangGraph agents, LoRA fine-tuning)
-- 🧠 **Computer Vision** — YOLOv8, Haar Cascade, CNN, Vision Transformers
-- ☁️ **MLOps & DevOps** — Docker, GCP, Terraform, GitHub Actions CI/CD
-- 📊 **Data Analytics** — SQL, Pandas, Power BI, RFM, Cohort, Churn modeling
-- 💻 **Full Stack** — React, Node.js, FastAPI, PostgreSQL, MongoDB, WebSockets
-- 📄 **Published research** in IJRASET 2023 (Android Botnet Detection)
-- ⭐ **5-Star Java**, 4-Star C++, 3-Star Algorithms on HackerRank
-- 🏆 **300+ DSA problems** solved across LeetCode, HackerRank, CodeChef
-- 🌐 **Google Cloud certified** (Cloud Fundamentals + Cloud Security)
-- 🔐 **Microsoft certified** (Threat Modeling Security Fundamentals)
-- 📫 Reach me at **info.sr0909@gmail.com**
+<h3>👋 Hello, I'm <b>Sumit Raj</b></h3>
+
+> 🚀 A **multi-role engineer** building intelligent systems across **AI/ML · Generative AI · Data · Full Stack · Software Engineering**.
+
+> 🎓 Currently pursuing **M.Tech in Applied AI & ML at VNIT Nagpur** after **B.E. Computer Science** from Dr. D.Y. Patil Institute, Pune.
+
+<br clear="right"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Academic & Career</h3>
+
+- 🎓 **M.Tech Applied AI & ML** — VNIT Nagpur *2024 – May 2026*
+- 📘 **B.E. Computer Science** — Dr. D.Y. Patil Institute, Pune
+- 💼 **Ex-Software Engineer Intern** — Salesforce
+- 📄 **Published Researcher** — IJRASET 2023
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 What I Build</h3>
+
+- 🤖 **LLM Systems** — RAG · LangGraph · LoRA Fine-Tuning
+- 🧠 **Computer Vision** — YOLOv8 · CNN · Vision Transformers
+- ☁️ **MLOps & DevOps** — Docker · GCP · Terraform · CI/CD
+- 💻 **Full Stack** — React · Node.js · FastAPI · PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 Data & Analytics</h3>
+
+- 📈 **Analytics** — RFM · Cohort · Churn Modeling
+- 🛠️ **Tools** — SQL · Pandas · Power BI · Matplotlib
+- 🗄️ **Databases** — PostgreSQL · MongoDB · Redis · SQLite
+- 📉 **Dashboards** — Power BI · Seaborn · Plotly
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏆 Achievements & Reach</h3>
+
+- ⭐ **5-Star Java** · 4-Star C++ · 3-Star Algorithms
+- 🏅 **300+ DSA problems** solved across platforms
+- 🌐 **Google Cloud Certified** — Fundamentals + Security
+- 📫 **Reach me** — [info.sr0909@gmail.com](mailto:info.sr0909@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,7 +98,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🧬 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -69,7 +110,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-### AI / ML / Generative AI
+### 🤖 AI / ML / Generative AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -85,7 +126,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
-### Frontend / Backend
+### 🎨 Frontend / Backend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -96,7 +137,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -105,7 +146,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Cloud / DevOps
+### ☁️ Cloud / DevOps
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -116,7 +157,7 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Data & Analytics
+### 📊 Data & Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -133,38 +174,115 @@ I'm a **multi-role engineer** with strong foundations across AI/ML, Generative A
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [RAG-Based Clinical QA System](https://github.com/sumit966/rag-clinical-qa)
-RAG pipeline with LangChain + ChromaDB achieving **92% answer relevance** using hybrid search (BM25 + dense embeddings) with Reciprocal Rank Fusion. Deployed via FastAPI + Docker + GitHub Actions at **<500ms latency**.
+<a href="https://github.com/sumit966/rag-clinical-qa">
+  <img src="https://opengraph.githubassets.com/1/sumit966/rag-clinical-qa" width="100%" />
+</a>
 
-`Python` `LangChain` `ChromaDB` `FastAPI` `Docker`
+<h3 align="center">🧬 <a href="https://github.com/sumit966/rag-clinical-qa">RAG-Based Clinical QA System</a></h3>
+
+> **🎯 Goal:** Build a retrieval-augmented QA system for clinical documents with high answer relevance.
+
+> **💡 Approach:** Hybrid search (BM25 + dense embeddings) with Reciprocal Rank Fusion, powered by LangChain + ChromaDB.
+
+> **📈 Impact:** **92% answer relevance** · **<500ms latency** · Deployed via FastAPI + Docker.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/rag-clinical-qa?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/rag-clinical-qa?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [LLM-Powered Security Log Analyzer](https://github.com/sumit966/llm-security-analyzer)
-LangGraph agent workflow analyzing **50K+ security logs** with natural-language threat summaries. Self-reflection loop keeps hallucination **under 3%** on 200 curated test cases.
+<a href="https://github.com/sumit966/llm-security-analyzer">
+  <img src="https://opengraph.githubassets.com/1/sumit966/llm-security-analyzer" width="100%" />
+</a>
 
-`Python` `LangGraph` `OpenAI API` `FastAPI`
+<h3 align="center">🔐 <a href="https://github.com/sumit966/llm-security-analyzer">LLM-Powered Security Log Analyzer</a></h3>
+
+> **🎯 Goal:** Turn 50K+ raw security logs into natural-language threat summaries.
+
+> **💡 Approach:** LangGraph agent with self-reflection loop that validates findings before reporting.
+
+> **📈 Impact:** Keeps hallucination **under 3%** across 200 curated test cases.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/llm-security-analyzer?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/llm-security-analyzer?style=social" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Multi-Agent Research Assistant](https://github.com/sumit966/multi-agent-research)
-Multi-agent workflow (planner, researcher, writer, evaluator) using **LangGraph tool calling**. Evaluation step validates claims against sources before returning cited reports.
+<a href="https://github.com/sumit966/multi-agent-research">
+  <img src="https://opengraph.githubassets.com/1/sumit966/multi-agent-research" width="100%" />
+</a>
 
-`Python` `LangGraph` `LangChain` `OpenAI API` `FastAPI`
+<h3 align="center">🤝 <a href="https://github.com/sumit966/multi-agent-research">Multi-Agent Research Assistant</a></h3>
+
+> **🎯 Goal:** Automate research reports with cited sources.
+
+> **💡 Approach:** Planner → Researcher → Writer → Evaluator pipeline using LangGraph tool calling.
+
+> **📈 Impact:** Every claim validated against sources before the report is returned.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/multi-agent-research?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/multi-agent-research?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Domain-Specific LLM Fine-Tuning with LoRA](https://github.com/sumit966/llm-lora-finetuning)
-Fine-tuned open-source LLM with **LoRA + PEFT** on domain Q&A dataset. Compared against base model on a fixed evaluation set. Published training code + model card.
+<a href="https://github.com/sumit966/llm-lora-finetuning">
+  <img src="https://opengraph.githubassets.com/1/sumit966/llm-lora-finetuning" width="100%" />
+</a>
 
-`Python` `Hugging Face` `PEFT` `PyTorch`
+<h3 align="center">🎯 <a href="https://github.com/sumit966/llm-lora-finetuning">LLM Fine-Tuning with LoRA</a></h3>
+
+> **🎯 Goal:** Adapt an open-source LLM to a domain-specific Q&A dataset.
+
+> **💡 Approach:** Parameter-efficient fine-tuning with **LoRA + PEFT**.
+
+> **📈 Impact:** Compared against base model on fixed eval set · Published training code + model card.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PEFT-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/llm-lora-finetuning?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/llm-lora-finetuning?style=social" />
+</p>
 
 </td>
 </tr>
@@ -174,51 +292,145 @@ Fine-tuned open-source LLM with **LoRA + PEFT** on domain Q&A dataset. Compared 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Military Vehicle Detection & Face Auth](https://github.com/sumit966/military-vehicle-detection)
-Real-time surveillance using **Haar Cascade face auth (95% accuracy)** + **YOLOv8** vehicle detection with automated email alerts. Deployed on GCP Cloud Run.
+<a href="https://github.com/sumit966/military-vehicle-detection">
+  <img src="https://opengraph.githubassets.com/1/sumit966/military-vehicle-detection" width="100%" />
+</a>
 
-`Python` `YOLOv8` `OpenCV` `Docker` `GCP`
+<h3 align="center">🚁 <a href="https://github.com/sumit966/military-vehicle-detection">Military Vehicle Detection & Face Auth</a></h3>
+
+> **🎯 Goal:** Real-time surveillance with dual authentication.
+
+> **💡 Approach:** **Haar Cascade** for face auth + **YOLOv8** for vehicle detection + email alerts.
+
+> **📈 Impact:** **95% face-auth accuracy** · Deployed on GCP Cloud Run.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/military-vehicle-detection?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/military-vehicle-detection?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Brain Tumor Detection from MRI](https://github.com/sumit966/brain-tumor-detection)
-Deep learning model classifying brain tumors across **4 classes** on **3,000+ MRI scans**. Grad-CAM visualization + ONNX quantization (60% size reduction).
+<a href="https://github.com/sumit966/brain-tumor-detection">
+  <img src="https://opengraph.githubassets.com/1/sumit966/brain-tumor-detection" width="100%" />
+</a>
 
-`Python` `PyTorch` `Vision Transformers` `ONNX`
+<h3 align="center">🧠 <a href="https://github.com/sumit966/brain-tumor-detection">Brain Tumor Detection from MRI</a></h3>
+
+> **🎯 Goal:** Classify brain tumors across 4 classes from MRI scans.
+
+> **💡 Approach:** Vision Transformers + Grad-CAM for interpretability + ONNX quantization.
+
+> **📈 Impact:** **3,000+ MRI scans** · **60% size reduction** via ONNX.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vision%20Transformers-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/brain-tumor-detection?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/brain-tumor-detection?style=social" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Mobile Botnet Detection System](https://github.com/sumit966/-android-botnet-detection)
-SVM classifier on **342 static app features** detecting malicious C&C communication with **96.5% precision**. Published in **IJRASET 2023** (DOI: 10.22214/ijraset.2023.49506).
+<a href="https://github.com/sumit966/-android-botnet-detection">
+  <img src="https://opengraph.githubassets.com/1/sumit966/-android-botnet-detection" width="100%" />
+</a>
 
-`Python` `Scikit-learn` `SVM` `SQLite`
+<h3 align="center">📱 <a href="https://github.com/sumit966/-android-botnet-detection">Mobile Botnet Detection System</a></h3>
+
+> **🎯 Goal:** Detect Android botnet C&C communication from static app features.
+
+> **💡 Approach:** SVM classifier trained on **342 static features**.
+
+> **📈 Impact:** **96.5% precision** · Published in **IJRASET 2023** ([DOI](https://doi.org/10.22214/ijraset.2023.49506)).
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Published-IJRASET-10b981?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/-android-botnet-detection?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/-android-botnet-detection?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [MLOps Pipeline for Loan Default Prediction](https://github.com/sumit966/mlops-loan-default)
-End-to-end MLOps pipeline with **MLflow** experiment tracking, **DVC** data versioning, **FastAPI** serving, and **GitHub Actions** CI/CD. XGBoost AUC-ROC **0.94**.
+<a href="https://github.com/sumit966/mlops-loan-default">
+  <img src="https://opengraph.githubassets.com/1/sumit966/mlops-loan-default" width="100%" />
+</a>
 
-`Python` `MLflow` `DVC` `FastAPI` `Docker`
+<h3 align="center">📈 <a href="https://github.com/sumit966/mlops-loan-default">MLOps Pipeline — Loan Default</a></h3>
+
+> **🎯 Goal:** End-to-end MLOps pipeline for credit risk prediction.
+
+> **💡 Approach:** **MLflow** tracking + **DVC** versioning + **FastAPI** serving + **CI/CD**.
+
+> **📈 Impact:** XGBoost AUC-ROC **0.94** · Fully automated retraining.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/mlops-loan-default?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/mlops-loan-default?style=social" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Product Recommendation System](https://github.com/sumit966/product-recommender-faiss)
-Hybrid recommender combining **collaborative filtering** with **embedding-based FAISS search**. Evaluated with Precision@K / Recall@K vs popularity baseline.
+<a href="https://github.com/sumit966/product-recommender-faiss">
+  <img src="https://opengraph.githubassets.com/1/sumit966/product-recommender-faiss" width="100%" />
+</a>
 
-`Python` `PyTorch` `FAISS` `Sentence Transformers` `FastAPI`
+<h3 align="center">🎬 <a href="https://github.com/sumit966/product-recommender-faiss">Product Recommendation System</a></h3>
+
+> **🎯 Goal:** Hybrid product recommender with sub-second latency.
+
+> **💡 Approach:** Collaborative filtering + **embedding-based FAISS search**.
+
+> **📈 Impact:** Evaluated with **Precision@K / Recall@K** vs popularity baseline.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/product-recommender-faiss?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/product-recommender-faiss?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -228,20 +440,58 @@ Hybrid recommender combining **collaborative filtering** with **embedding-based 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [E-commerce Sales & Customer Analytics Dashboard](https://github.com/sumit966/ecommerce-analytics)
-Interactive **Power BI dashboard** on retail transactions: **RFM segmentation**, **cohort retention**, monthly revenue trends, AOV, repeat purchase rate.
+<a href="https://github.com/sumit966/ecommerce-analytics">
+  <img src="https://opengraph.githubassets.com/1/sumit966/ecommerce-analytics" width="100%" />
+</a>
 
-`SQL` `PostgreSQL` `Pandas` `Power BI`
+<h3 align="center">📉 <a href="https://github.com/sumit966/ecommerce-analytics">E-commerce Analytics Dashboard</a></h3>
+
+> **🎯 Goal:** Turn raw retail transactions into actionable business insights.
+
+> **💡 Approach:** SQL pipeline → RFM segmentation → Cohort retention → Power BI dashboards.
+
+> **📈 Impact:** Monthly revenue trends, AOV, and repeat-purchase rate all tracked.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/ecommerce-analytics?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/ecommerce-analytics?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Customer Churn Analysis and Prediction](https://github.com/sumit966/customer-churn-analysis)
-Logistic regression churn model with ranked churn drivers. Retention recommendations delivered via Power BI dashboard.
+<a href="https://github.com/sumit966/customer-churn-analysis">
+  <img src="https://opengraph.githubassets.com/1/sumit966/customer-churn-analysis" width="100%" />
+</a>
 
-`Python` `SQL` `Scikit-learn` `Power BI`
+<h3 align="center">📊 <a href="https://github.com/sumit966/customer-churn-analysis">Customer Churn Analysis</a></h3>
+
+> **🎯 Goal:** Predict which customers are likely to churn and why.
+
+> **💡 Approach:** Logistic regression + ranked churn drivers + Power BI deliverable.
+
+> **📈 Impact:** Actionable retention recommendations delivered to stakeholders.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/customer-churn-analysis?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/customer-churn-analysis?style=social" />
+</p>
 
 </td>
 </tr>
@@ -251,20 +501,59 @@ Logistic regression churn model with ranked churn drivers. Retention recommendat
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [AI Document Chat Web App](https://github.com/sumit966/ai-document-chat)
-Full-stack app with **JWT auth** — upload PDFs, chat with them via RAG backend. React frontend + Node.js + FastAPI + PostgreSQL. Dockerized, deployed on **GCP Cloud Run**.
+<a href="https://github.com/sumit966/ai-document-chat">
+  <img src="https://opengraph.githubassets.com/1/sumit966/ai-document-chat" width="100%" />
+</a>
 
-`React` `Node.js` `FastAPI` `PostgreSQL` `JWT` `Docker` `GCP`
+<h3 align="center">💬 <a href="https://github.com/sumit966/ai-document-chat">AI Document Chat Web App</a></h3>
+
+> **🎯 Goal:** Chat with your own documents using RAG.
+
+> **💡 Approach:** JWT-auth full-stack app — upload PDFs and query them via RAG backend.
+
+> **📈 Impact:** Dockerized & deployed on **GCP Cloud Run**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/ai-document-chat?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/ai-document-chat?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Real-Time Collaborative Task Board](https://github.com/sumit966/collab-task-board)
-Kanban-style board with **WebSocket live updates**, **JWT auth**, and **role-based access**. Node.js + MongoDB + React + Docker + GitHub Actions CI.
+<a href="https://github.com/sumit966/collab-task-board">
+  <img src="https://opengraph.githubassets.com/1/sumit966/collab-task-board" width="100%" />
+</a>
 
-`React` `Node.js` `MongoDB` `WebSockets` `Docker`
+<h3 align="center">📋 <a href="https://github.com/sumit966/collab-task-board">Real-Time Collaborative Task Board</a></h3>
+
+> **🎯 Goal:** Live Kanban board for teams with role-based access.
+
+> **💡 Approach:** WebSocket live updates + JWT auth + role-based permissions.
+
+> **📈 Impact:** Multi-user sync with sub-second latency.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/collab-task-board?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/collab-task-board?style=social" />
+</p>
 
 </td>
 </tr>
@@ -274,20 +563,58 @@ Kanban-style board with **WebSocket live updates**, **JWT auth**, and **role-bas
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Scalable URL Shortener Service](https://github.com/sumit966/url-shortener-service)
-REST API for short links with **PostgreSQL** storage + **Redis** caching, **rate limiting**, input validation, and typed unit tests. Dockerized + CI/CD.
+<a href="https://github.com/sumit966/url-shortener-service">
+  <img src="https://opengraph.githubassets.com/1/sumit966/url-shortener-service" width="100%" />
+</a>
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
+<h3 align="center">🔗 <a href="https://github.com/sumit966/url-shortener-service">Scalable URL Shortener</a></h3>
+
+> **🎯 Goal:** Production-grade URL shortener with caching and rate limiting.
+
+> **💡 Approach:** PostgreSQL storage + Redis caching + typed unit tests + Dockerized CI/CD.
+
+> **📈 Impact:** Handles high throughput with graceful degradation.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/url-shortener-service?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/url-shortener-service?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Background Job Queue & Task Scheduler](https://github.com/sumit966/background-job-queue)
-Background job queue with **retries, priorities, and status tracking**. Atomic job claims via `BEGIN IMMEDIATE`. OOP design + unit tests + Docker.
+<a href="https://github.com/sumit966/background-job-queue">
+  <img src="https://opengraph.githubassets.com/1/sumit966/background-job-queue" width="100%" />
+</a>
 
-`Python` `FastAPI` `PostgreSQL` `Docker`
+<h3 align="center">⚙️ <a href="https://github.com/sumit966/background-job-queue">Background Job Queue</a></h3>
+
+> **🎯 Goal:** Reliable background job processing with retries and priorities.
+
+> **💡 Approach:** Atomic job claims via `BEGIN IMMEDIATE`, OOP design, unit tests.
+
+> **📈 Impact:** Zero duplicate job execution under concurrent workers.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/background-job-queue?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/background-job-queue?style=social" />
+</p>
 
 </td>
 </tr>
@@ -297,20 +624,56 @@ Background job queue with **retries, priorities, and status tracking**. Atomic j
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [CI/CD Pipeline with Docker & GCP](https://github.com/sumit966/cicd-pipeline-gcp)
-Automated deployment pipeline with **GitHub Actions**, **Docker** multi-stage builds, and **GCP Compute Engine** deploy — **70% reduction** in manual deployment time.
+<a href="https://github.com/sumit966/cicd-pipeline-gcp">
+  <img src="https://opengraph.githubassets.com/1/sumit966/cicd-pipeline-gcp" width="100%" />
+</a>
 
-`Docker` `GitHub Actions` `GCP` `Bash`
+<h3 align="center">🔄 <a href="https://github.com/sumit966/cicd-pipeline-gcp">CI/CD Pipeline with Docker & GCP</a></h3>
+
+> **🎯 Goal:** Automate deployment to GCP with zero manual steps.
+
+> **💡 Approach:** GitHub Actions + Docker multi-stage builds + GCP Compute Engine.
+
+> **📈 Impact:** **70% reduction** in manual deployment time.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/cicd-pipeline-gcp?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/cicd-pipeline-gcp?style=social" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### [Terraform GCP Infrastructure Automation](https://github.com/sumit966/terraform-gcp-infrastructure)
-Infrastructure as Code for **VPC, Compute Engine, Cloud SQL** with remote state management and VM startup scripts.
+<a href="https://github.com/sumit966/terraform-gcp-infrastructure">
+  <img src="https://opengraph.githubassets.com/1/sumit966/terraform-gcp-infrastructure" width="100%" />
+</a>
 
-`Terraform` `GCP` `HCL`
+<h3 align="center">🏗️ <a href="https://github.com/sumit966/terraform-gcp-infrastructure">Terraform GCP Infrastructure</a></h3>
+
+> **🎯 Goal:** Codify GCP infrastructure for reproducibility.
+
+> **💡 Approach:** Terraform modules for VPC, Compute Engine, and Cloud SQL with remote state.
+
+> **📈 Impact:** One-command environment provisioning.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sumit966/terraform-gcp-infrastructure?style=social" />
+  <img src="https://img.shields.io/github/forks/sumit966/terraform-gcp-infrastructure?style=social" />
+</p>
 
 </td>
 </tr>
@@ -353,54 +716,141 @@ Infrastructure as Code for **VPC, Compute Engine, Cloud SQL** with remote state 
 
 ## 🏆 Achievements
 
-- ⭐ **5-Star Java Programmer** on HackerRank (Gold Badge in Problem Solving)
-- ⭐ **4-Star C++ Programmer** on HackerRank
-- ⭐ **3-Star Algorithms** on HackerRank
-- 💻 **300+ DSA problems** solved across LeetCode, HackerRank, CodeChef
-- 📄 **Published research** in IJRASET 2023 — Android Botnet Detection ([DOI: 10.22214/ijraset.2023.49506](https://doi.org/10.22214/ijraset.2023.49506))
-- ☁️ **Google Cloud certified**: Cloud Fundamentals + Cloud Security
-- 🔐 **Microsoft certified**: Threat Modeling Security Fundamentals
-- 🎓 **M.Tech @ VNIT Nagpur** — Applied AI & Machine Learning
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⭐ Coding Profiles</h3>
+
+- 🥇 **5-Star Java** on HackerRank (Gold Badge)
+- 🥈 **4-Star C++** on HackerRank
+- 🥉 **3-Star Algorithms** on HackerRank
+- 💻 **300+ DSA problems** solved across LeetCode · HackerRank · CodeChef
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏅 Certifications & Research</h3>
+
+- 📄 **Published Research** — IJRASET 2023 ([DOI](https://doi.org/10.22214/ijraset.2023.49506))
+- ☁️ **Google Cloud Certified** — Cloud Fundamentals
+- ☁️ **Google Cloud Certified** — Cloud Security
+- 🔐 **Microsoft Certified** — Threat Modeling Security Fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Academic Excellence</h3>
+
+- 🎓 **M.Tech @ VNIT Nagpur** — Applied AI & ML
+- 📘 **B.E. Computer Science** — Dr. D.Y. Patil Institute, Pune
+- 🏆 **CGPA 7.89/10** in B.E.
+- 📚 Strong foundation in DSA + System Design
+
+</td>
+<td width="50%" valign="top">
+
+<h3>👥 Leadership & Community</h3>
+
 - 🏅 **Program Organizer** — 5+ tech events, hackathons
 - 👥 **Coding Club Coordinator** — mentored 50+ juniors in DSA
+- 🎤 Delivered sessions on AI/ML and Full Stack
+- 🤝 Active open-source contributor
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| Cloud Fundamentals | Google Cloud | ✅ |
-| Cloud Security | Google Cloud | ✅ |
-| Threat Modeling Security Fundamentals | Microsoft | ✅ |
-| Defend Against Threats with Microsoft 365 | Microsoft | ✅ |
-| Architecting with Google Compute Engine | Coursera | ✅ |
-| Google Cloud Fundamentals: Core Infrastructure | Coursera | ✅ |
-| Power BI Data Analyst Associate (PL-300) | Microsoft | 🎯 In progress |
-| Generative AI with LLMs | DeepLearning.AI | 🎯 In progress |
-| Deep Learning Specialization | Coursera | 🎯 In progress |
-| Docker Mastery | Udemy | 🎯 In progress |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>☁️ Google Cloud</h3>
+
+- ✅ Cloud Fundamentals
+- ✅ Cloud Security
+- ✅ Architecting with GCE *(Coursera)*
+- ✅ GCP Fundamentals *(Coursera)*
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🔐 Microsoft</h3>
+
+- ✅ Threat Modeling Security Fundamentals
+- ✅ Defend Against Threats with M365
+- 🎯 Power BI Data Analyst (PL-300) *— in progress*
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🧠 AI / ML / DevOps</h3>
+
+- 🎯 Generative AI with LLMs *(DeepLearning.AI)*
+- 🎯 Deep Learning Specialization *(Coursera)*
+- 🎯 Docker Mastery *(Udemy)*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern** · Salesforce (Remote) · Feb 2022 – May 2022
+<table>
+<tr>
+<td>
 
-- Built **Python bulk data-processing pipelines**, cutting manual data handling by **~40%**
-- Integrated **Salesforce APIs** into optimized backend workflows, improving efficiency by **~25%**
-- Wrote complex **SQL queries** (joins, aggregations) for CRM data analysis
-- Analyzed **10,000+ CRM records** with SQL to identify business trends
-- Built **Power BI dashboards** for stakeholders, reducing manual report generation by **60%**
+### 👨‍💻 Software Engineer Intern
+**Salesforce** · Remote · *Feb 2022 – May 2022*
+
+> Built internal data and analytics tooling for the CRM team, improving data processing throughput and stakeholder reporting speed.
+
+- 🐍 Built **Python bulk data-processing pipelines** → cut manual data handling by **~40%**
+- 🔌 Integrated **Salesforce APIs** into optimized backend workflows → **~25% efficiency gain**
+- 🗄️ Wrote complex **SQL queries** (joins, aggregations) for CRM data analysis
+- 📊 Analyzed **10,000+ CRM records** with SQL to surface business trends
+- 📈 Built **Power BI dashboards** for stakeholders → **60% less manual reporting**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| **M.Tech Applied AI & ML** | VNIT Nagpur | 2024 – May 2026 | 6.53/10 |
-| **B.E. Computer Science** | Dr. D.Y. Patil Institute, Pune | 2019 – 2023 | 7.89/10 |
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎓 M.Tech — Applied AI & ML
+**VNIT Nagpur** · *2024 – May 2026*
+
+<img src="https://img.shields.io/badge/CGPA-6.53%2F10-8b5cf6?style=for-the-badge" />
+
+> 🧠 Specializing in Deep Learning, Generative AI, and Applied ML systems.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📘 B.E. — Computer Science
+**Dr. D.Y. Patil Institute, Pune** · *2019 – 2023*
+
+<img src="https://img.shields.io/badge/CGPA-7.89%2F10-3b82f6?style=for-the-badge" />
+
+> 💻 Strong foundation in DSA, DBMS, OS, and software engineering.
+
+</td>
+</tr>
+</table>
 
 ---
 
